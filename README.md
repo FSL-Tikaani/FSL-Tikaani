@@ -1,47 +1,89 @@
-# Привет! Я FSL-Tikaani 👋
+<div align="center">
 
-### 📱 Mobile Developer
+```
+██████╗ ███████╗██╗      ████████╗██╗██╗  ██╗ █████╗  █████╗ ███╗   ██╗██╗
+██╔════╝██╔════╝██║      ╚══██╔══╝██║██║ ██╔╝██╔══██╗██╔══██╗████╗  ██║██║
+█████╗  ███████╗██║         ██║   ██║█████╔╝ ███████║███████║██╔██╗ ██║██║
+██╔══╝  ╚════██║██║         ██║   ██║██╔═██╗ ██╔══██║██╔══██║██║╚██╗██║██║
+██║     ███████║███████╗    ██║   ██║██║  ██╗██║  ██║██║  ██║██║ ╚████║██║
+╚═╝     ╚══════╝╚══════╝    ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
+```
 
-Занимаюсь мобильной разработкой, проектирую архитектуру приложений и постоянно расширяю свой стек. Сейчас активно смотрю в сторону кроссплатформенных решений.
+### `> Mobile Developer _ Kotlin & KMP Enthusiast _ Hardware Hacker`
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00ACC1&center=true&vCenter=true&width=600&lines=Android+%7C+Kotlin+Multiplatform+%7C+Ktor;Архитектор+мобильных+решений;Backend+%7C+Docker+%7C+PostgreSQL;Arduino+%26+Embedded+Systems)](https://git.io/typing-svg)
 
-### 💻 Мой технологический стек
-
-* **Mobile (Android & KMP):** Kotlin, Java, Kotlin Multiplatform (KMP), Android SDK, MVVM, Retrofit, Jetpack Compose / XML.
-* **Backend & DevOps:** Ktor, Python (Django, Flask), Spring Boot, Docker, Nginx, PostgreSQL / SQLite.
-* **Инструменты:** Git, Postman, Firebase, Linux, Arduino[cite: 1].
-
-<br>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kotlin,java,androidstudio,docker,firebase,git,linux,sqlite,postman,spring,django,flask,py,nginx,arduino,html,css,mongodb&perline=9" />
-</p>
+</div>
 
 ---
 
-### 🏆 Мои главные проекты
+## `tech.stack`
 
-| Проект | Стек технологий | Описание |
-| :--- | :--- | :--- |
-| **[Smart Notes](https://github.com/FSL-Tikaani)** | Java, MVVM, Retrofit, SQLite, OCR | Приложение для умных заметок. Интегрировано распознавание текста (OCR) и работа с локальной базой данных по архитектуре MVVM[cite: 1]. |
-| **[Ktor/Docker Backend](https://github.com/FSL-Tikaani)** | Kotlin, Ktor, Docker, PostgreSQL | Серверная часть для мобильного приложения, упакованная в контейнеры для быстрого развертывания[cite: 1]. |
-| **[Custom Buggy Dashboard](https://github.com/FSL-Tikaani)** | Arduino, C++, Электроника | Проект кастомной панели приборов / системы управления для гаражного проекта багги[cite: 1]. |
+<div align="center">
 
-> 💡 *Ссылки в таблице ведут на твой профиль. Когда загрузишь эти проекты в отдельные репозитории, просто замени `https://github.com/FSL-Tikaani` на прямые ссылки на них.*
+**📱 Mobile**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![KMP](https://img.shields.io/badge/Kotlin_Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+**⚙️ Backend & DevOps**
+
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=kotlin&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**🛠️ Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+</div>
 
 ---
 
-### 🚀 Обо мне
+## `projects.featured`
 
-* 🌱 Сейчас активно изучаю и копаю **Kotlin Multiplatform**[cite: 1]
-* 🌐 Мой сайт-портфолио: [fsl-tikaani.github.io](https://fsl-tikaani.github.io/my-site-about-mobile-developing/)[cite: 1]
-* 💬 Для связи со мной: **@fsl_tikaani**[cite: 1]
+<div align="center">
+
+| Проект | Стек | Описание |
+|:---|:---:|:---|
+| 📒 **[Smart Notes](https://github.com/FSL-Tikaani/smart-notes-mobile-app)** | `Java` | Мобильное приложение для создания и обработки коспектов с AI и OCR |
+| ⚙️ **[Ktor AI Notes Server](https://github.com/FSL-Tikaani/ktor-ai-notes-server)** | `Kotlin` | Бэкенд для мобильного приложения Smart Notes|
+
+</div>
 
 ---
 
-### 📊 Статистика профиля
+## `connect.with_me`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FSL-Tikaani&show_icons=true&theme=visual_studio_code&hide_border=true&title_color=007ACC" alt="GitHub Stats" height="180" />
-</p>
+<div align="center">
+
+<a href="https://t.me/fsl_tikaani">
+  <img src="./buttons/telegram.svg" alt="Написать в Telegram" height="56"/>
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://fsl-tikaani.github.io/my-site-about-mobile-developing/">
+  <img src="./buttons/portfolio.svg" alt="Портфолио" height="56"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+// Строки кода — это не просто логика. Это архитектура мышления.
+```
+
+</div>
