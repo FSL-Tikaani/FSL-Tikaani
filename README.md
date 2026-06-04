@@ -9,8 +9,6 @@
 ╚═╝     ╚══════╝╚══════╝    ╚═╝   ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝
 ```
 
-### `> Mobile Developer _ Kotlin & KMP Enthusiast _ Hardware Hacker`
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00ACC1&center=true&vCenter=true&width=600&lines=Android+%7C+Kotlin+Multiplatform+%7C+Ktor;Архитектор+мобильных+решений;Backend+%7C+Docker+%7C+PostgreSQL;Arduino+%26+Embedded+Systems)](https://git.io/typing-svg)
 
 </div>
